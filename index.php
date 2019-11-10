@@ -125,7 +125,7 @@
 								<section>
 									<span class="icon solid major fa-lock"></span>
 									<h3>TrackSoft system</h3>
-									<p>CargoWise One is an environment of integrated enterprise resource planning applications. It integrates forwarding, costing, and invoicing requirements into one multi-layered form. The environment allows you to create and send many types of declarations. It automatically links these declarations to shipment details within the system. .</p>
+									<p>TrackSoft  is an environment of integrated enterprise resource planning applications. It integrates forwarding, costing, and invoicing requirements into one multi-layered form. The environment allows you to create and send many types of declarations. It automatically links these declarations to shipment details within the system.</p>
 									<p style="color: blue"><a target="_blank" href="https://www.futuristicdevworks.com/ssudandev/">Click Here</a></p>
 								</section>
 								<section>
@@ -145,6 +145,13 @@
 									<h3>CEMES Insurance Agency</h3>
 									<p>A prospective customer can perform filters and enquiries for insurance products,this data is then sent to 
  agent mobile application that shall be used by the insurance sales agents to sell
+insurance policies.</p>
+									<p style="color: blue"><a target="_blank" href="https://www.cemesinsurance.co.ke/">Click Here</a></p>
+								</section>
+								<section>
+									<span class="icon solid major fa-cog"></span>
+									<h3>Inventory Management System</h3>
+									<p>Inventory management software is a software system for tracking inventory levels, orders, sales and deliveries. It can also be used in the manufacturing industry to create a work order, bill of materials and other production-related documents. 
 insurance policies.</p>
 									<p style="color: blue"><a target="_blank" href="https://www.cemesinsurance.co.ke/">Click Here</a></p>
 								</section>
