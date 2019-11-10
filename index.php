@@ -51,7 +51,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>The Aghakhan University(TREE Program)</h2>
-									<h5>Web Applications Developer: May 2019 - Present</h5>
+									<h5>Full-Stack Developer: May 2019 - Present</h5>
 									<p>
 									<ul>
 									<li>Use open-source technologies to enhance TrainSMART and Moodle, specifically development in PHP , MySQL and Angular JS.</li>
@@ -71,7 +71,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>Futuristic Limited</h2>
-									<h5>Web Applications Developer: April 2018 - April 2019</h5>
+									<h5>Full-Stack Developer: April 2018 - April 2019</h5>
 									<p>
 									<ul>
 										<li>Software Developer-A full time web developer. </li>
