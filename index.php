@@ -140,6 +140,13 @@
 									<p>This is an open-source, web-based training data collection system. It allows users to accurately track data about training programs, trainers, and trainees, to better evaluate programs and report activities to stakeholders.</p>
 									<p style="color: blue"><a target="_blank" href="http://trainsmart.nascop.org/trainsmartprod">Click Here</a></p>
 								</section>
+												<section>
+									<span class="icon solid major fa-cog"></span>
+									<h3>Inventory Management System</h3>
+									<p>Inventory management software is a software system for tracking inventory levels, orders, sales and deliveries. It can also be used in the manufacturing industry to create a work order, bill of materials and other production-related documents. 
+insurance policies.</p>
+									<p style="color: blue"><a target="_blank" href="https://dukamoja.000webhostapp.com">Click Here</a></p>
+								</section>
 								<section>
 									<span class="icon solid major fa-cog"></span>
 									<h3>CEMES Insurance Agency</h3>
@@ -148,13 +155,7 @@
 insurance policies.</p>
 									<p style="color: blue"><a target="_blank" href="https://www.cemesinsurance.co.ke/">Click Here</a></p>
 								</section>
-								<section>
-									<span class="icon solid major fa-cog"></span>
-									<h3>Inventory Management System</h3>
-									<p>Inventory management software is a software system for tracking inventory levels, orders, sales and deliveries. It can also be used in the manufacturing industry to create a work order, bill of materials and other production-related documents. 
-insurance policies.</p>
-									<p style="color: blue"><a target="_blank" href="https://www.cemesinsurance.co.ke/">Click Here</a></p>
-								</section>
+				
 								
 							</div>
 
