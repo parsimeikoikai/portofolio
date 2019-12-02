@@ -116,12 +116,34 @@
 							<h2>PORTOFOLIO</h2>
 							<p>Below you can see some projects I've been working on lately. I divide each project into four follow-up areas: comprehensive research, wireframing, design & development. This process allows me to create great product with client goals in mind.</p>
 							<div class="features">
+                            <section>
+									<span class="icon solid major fa-desktop"></span>
+									<h3>Training System Monitoring and Reporting Tool(TrainSMART)</h3>
+									<p>This is an open-source, web-based training data collection system. It allows users to accurately track data about training programs, trainers, and trainees, to better evaluate programs and report activities to stakeholders.</p>
+									<p style="color: blue"><a target="_blank" href="http://trainsmart.nascop.org/trainsmartprod">Click Here</a></p>
+								</section>
 								<section>
 									<span class="icon solid major fa-code"></span>
 									<h3>PrEP Lab Seroconvetors System</h3>
 									<p>A web-based application that collects and analyses data.This data is collected in all stations over the country</p>
 									<p style="color: blue"><a target="_blank" href="https://seroconverters.nascop.org">Click Here</a></p>
 								</section>
+
+
+                                <section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Vihiga County Human Resources Software</h3>
+									<p>A web-based  human resources software that combines a number of systems and processes to ensure the easy management of human resources, business processes and data.</p>
+									<p style="color: blue"><a target="_blank" href="https://www.futuristicdevextranet.com/hrsoft/frontend">Click Here</a></p>
+								</section>
+                                <section>
+									<span class="icon solid major fa-code"></span>
+									<h3>ATJ Japan Vehicle Inspection Tool</h3>
+									<p>user-friendly digital platform that allows a technician to objectively evaluate the health of a vehicle.</p>
+									<p style="color: blue"><a target="_blank" href="https://www.futuristicdevextranet.com/hrsoft/frontend">Click Here</a></p>
+								</section>
+
+
 								<section>
 									<span class="icon solid major fa-lock"></span>
 									<h3>TrackSoft system</h3>
@@ -134,12 +156,7 @@
 									<p>TPAD which is an open appraisal system allows teachers in primary and secondary schools to participate in evaluating their own performance and initiate their professional development.</p>
 									<p style="color: blue"><a target="_blank" href="https://www.tpad2.tsc.go.ke">Click Here</a></p>
 								</section>
-								<section>
-									<span class="icon solid major fa-desktop"></span>
-									<h3>Training System Monitoring and Reporting Tool(TrainSMART)</h3>
-									<p>This is an open-source, web-based training data collection system. It allows users to accurately track data about training programs, trainers, and trainees, to better evaluate programs and report activities to stakeholders.</p>
-									<p style="color: blue"><a target="_blank" href="http://trainsmart.nascop.org/trainsmartprod">Click Here</a></p>
-								</section>
+								
 												<section>
 									<span class="icon solid major fa-cog"></span>
 									<h3>Inventory Management System</h3>
