@@ -140,7 +140,7 @@
 									<span class="icon solid major fa-code"></span>
 									<h3>ATJ Japan Vehicle Inspection Tool</h3>
 									<p>user-friendly digital platform that allows a technician to objectively evaluate the health of a vehicle.</p>
-									<p style="color: blue"><a target="_blank" href="https://www.futuristicdevextranet.com/hrsoft/frontend">Click Here</a></p>
+									<p style="color: blue"><a target="_blank" href="https://www.futuristicdevworks.com/atjprod/admin/">Click Here</a></p>
 								</section>
 
 
